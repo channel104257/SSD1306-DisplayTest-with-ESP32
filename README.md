@@ -38,3 +38,4 @@ U8G2_SSD1306_128X64_NONAME_1_HW_I2C u8g2(U8G2_R0, /* reset=*/U8X8_PIN_NONE, /* c
 >```
 另一點為在主要執行檔中匯入自製字元標頭檔`word.h`<br>
 便能成功顯示作者想測試的中文字符<br>
+<img src="https://github.com/channel104257/SSD1306-DisplayTest-with-ESP32/blob/main/20210802_093032284_iOS.jpg" style="zoom:5%" />
